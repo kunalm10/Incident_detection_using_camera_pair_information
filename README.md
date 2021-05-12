@@ -12,8 +12,8 @@ This program imports databse.py module which again imports pymysql library.
 
 
 ## INSTALLATION
-To make sure the program works perfectly fine, make sure there is a database connection is properly estabilished on the PC.
-The database.py script and incident_detection_two_cameras.py should be present in the same directory.
+	To make sure the program works perfectly fine, make sure there is a database connection is properly estabilished on the PC.
+	The database.py script and incident_detection_two_cameras.py should be present in the same directory.
 
 ## METHOD
 
