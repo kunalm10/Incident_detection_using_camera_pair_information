@@ -12,8 +12,8 @@ This program imports databse.py module which again imports pymysql library.
 
 
 ## INSTALLATION
-	To make sure the program works perfectly fine, make sure there is a database connection is properly estabilished on the PC.
-	The database.py script and incident_detection_two_cameras.py should be present in the same directory.
+To make sure the program works perfectly fine, make sure there is a database connection is properly estabilished on the PC.
+The database.py script and incident_detection_two_cameras.py should be present in the same directory.
 
 ## METHOD
 
@@ -23,7 +23,3 @@ Also, there is a funtion named 'get_all_cameras()' in the incident_detection_two
 Other intermediate inputs like neighbor cameras, current directions, right side flow rate, left side flow rate are internally taken by the algorithm from the database.
 
 Outout: The program will generate Jam Status as 'Normal', 'Moderate', 'High', and 'Unknown' along with the timestamp at which result is generated. The status will be uploaded in databse in Jam_status_current table 	and Jam_status_history table.
-	
-
-### TO make understand dhiraj
-hi dhiraj
