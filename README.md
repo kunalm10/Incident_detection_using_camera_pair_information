@@ -25,3 +25,5 @@ Other intermediate inputs like neighbor cameras, current directions, right side 
 Outout: The program will generate Jam Status as 'Normal', 'Moderate', 'High', and 'Unknown' along with the timestamp at which result is generated. The status will be uploaded in databse in Jam_status_current table 	and Jam_status_history table.
 	
 
+## TO make understand dhiraj
+hi dhiraj
